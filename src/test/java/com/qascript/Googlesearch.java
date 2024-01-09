@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 
-public class google{
+public class Googlesearch{
    @SuppressWarnings("deprecation")
 
   
